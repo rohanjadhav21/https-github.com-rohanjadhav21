@@ -8,7 +8,7 @@
 ## 💡 About Me
 
 * Passionate about building mobile apps using **Flutter & Dart**
-* Strong interest in **UI/UX design and clean architecture (MVVM)**
+* Strong interest in **UI/UX design **
 * Currently learning **Firebase, REST APIs, and state management**
 * Looking for **entry-level Flutter Developer opportunities**
 
