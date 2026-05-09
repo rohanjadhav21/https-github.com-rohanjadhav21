@@ -25,20 +25,28 @@
 
 ## 📱 Projects
 
-### 🔹 Login & Signup App
 
-* Built using Flutter with API integration
-* Features: Authentication, form validation
+### 🔹 LearningNotes App
 
-### 🔹 Notes App
+* State management implemented using Provider
+* Cloud backend integration using Firebase
+* Local data storage using SQLite (sqflite)
+* Full CRUD operations implemented for notes management
+* User-friendly and responsive Flutter UI
+* Notes synchronization and real-time data handling
+* Clean architecture with reusable components
+* Beginner-friendly learning companion for Flutter & Dart concepts
 
-* Local storage using SQLite
-* CRUD operations implemented
+### 🔹 Portfolio WebPage
 
-### 🔹 Weather App
-
-* Fetches real-time data using API
-* Clean UI with error handling
+* Responsive portfolio website developed using Flutter Web
+* Modern and clean UI design with smooth animations
+* Deployed and hosted online for public access
+*Firebase Hosting used for fast and secure deployment
+* Cross-platform compatibility for desktop and mobile browsers
+* Project showcase section with live app details
+* Contact and social media integration implemented
+* Optimized layout and performance for web experience
 
 👉 *(Add your GitHub repo links here)*
 
@@ -52,9 +60,9 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)
-* 💼 LinkedIn: your-linkedin-profile
-* 🐙 GitHub: your-username
+* 📧 Email: [rohanj2120@gmail.com](rohanj2120@gmail.com)
+* 💼 LinkedIn: Rohan Jadhav
+* 🐙 GitHub: rohanjadhav21
 
 ---
 
